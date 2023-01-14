@@ -377,7 +377,7 @@ footer .footer-wrap {
     margin: 0 7px;
 }
 #home-card {
-    position: relative;
+    position: absolute left;
     width: 300px;
 }
 #card-div {
